@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="newRecsVinilos.XSL" type="text/xsl"?>
+
+<vinilos>
+    <vinilo descuento="false">
+        <titulo>Ok Computer</titulo>
+        <artista>Radiohead</artista>
+        <lanzamiento>1997</lanzamiento>
+        <genero>Rock alternativo</genero>
+        <estudio>Canned Applause</estudio>
+        <caratula>img_xml/img1.jpg</caratula>
+        <precio>35,75€</precio>
+    </vinilo>
+    <vinilo descuento="false">
+        <titulo>Louder Than Bombs</titulo>
+        <artista>The Smiths</artista>
+        <lanzamiento>1987</lanzamiento>
+        <genero>Rock alternativo</genero>
+        <estudio>Sire Records</estudio>
+        <caratula>img_xml/img2.jpg</caratula>
+        <precio>20,99€</precio>
+    </vinilo>
+    <vinilo descuento="false">
+        <titulo>In Utero</titulo>
+        <artista>Nirvana</artista>
+        <lanzamiento>1993</lanzamiento>
+        <genero>Grunge</genero>
+        <estudio>Pachyderm Studio</estudio>
+        <caratula>img_xml/img3.jpg</caratula>
+        <precio>40,00€</precio>
+    </vinilo>
+    <vinilo descuento="false">
+        <titulo>Born in the USA</titulo>
+        <artista>Bruce Springteen</artista>
+        <lanzamiento>1984</lanzamiento>
+        <genero>Rock</genero>
+        <estudio>Power Station and Hit Factory</estudio>
+        <caratula>img_xml/img4.jpg</caratula>
+        <precio>67,99€</precio>
+    </vinilo>
+    <vinilo descuento="false">
+        <titulo>Abbey Road</titulo>
+        <artista>The Beatles</artista>
+        <lanzamiento>1969</lanzamiento>
+        <genero>Rock</genero>
+        <estudio>Apple Records</estudio>
+        <caratula>img_xml/img5.jpg</caratula>
+        <precio>49,99€</precio>
+    </vinilo>
+    <vinilo descuento="true">
+        <titulo>Sheer Heart Attack</titulo>
+        <artista>Queen</artista>
+        <lanzamiento>1974</lanzamiento>
+        <genero>Rock</genero>
+        <estudio>Elektra Records</estudio>
+        <caratula>img_xml/img6.jpg</caratula>
+        <precio>31,99€</precio>
+    </vinilo>
+    <vinilo descuento="false">
+        <titulo>WAR</titulo>
+        <artista>U2</artista>
+        <lanzamiento>1983</lanzamiento>
+        <genero>Post-punk</genero>
+        <estudio>Windmill Lane</estudio>
+        <caratula>img_xml/img7.jpg</caratula>
+        <precio>24,99€</precio>
+    </vinilo>
+    <vinilo descuento="true"> 
+        <titulo>The Stranger</titulo>
+        <artista>Billy Joel</artista>
+        <lanzamiento>1977</lanzamiento>
+        <genero>Pop Rock</genero>
+        <estudio>AR Recording</estudio>
+        <caratula>img_xml/img8.jpg</caratula>
+        <precio>67,99€</precio>
+    </vinilo>
+    <vinilo descuento="true">
+        <titulo>Heroes</titulo>
+        <artista>David Bowie</artista>
+        <lanzamiento>1977</lanzamiento>
+        <genero>Rock</genero>
+        <estudio>RCA Records</estudio>
+        <caratula>img_xml/img9.jpg</caratula>
+        <precio>59,99€</precio>
+    </vinilo>
+</vinilos>

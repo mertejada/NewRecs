@@ -1,0 +1,9 @@
+<!ELEMENT vinilos (vinilo+)>
+<!ELEMENT vinilo (titulo,artista,lanzamiento,genero,estudio,caratula)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT artista (#PCDATA)>
+<!ELEMENT lanzamiento (#PCDATA)>
+<!ELEMENT genero (#PCDATA)>
+<!ELEMENT estudio (#PCDATA)>
+<!ELEMENT caratula (#PCDATA)>
+<!ATTLIST vinilo descuento (true | false) #IMPLIED>
