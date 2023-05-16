@@ -29,7 +29,7 @@
                             <td><xsl:value-of select="precio"/></td>
                             <td>
                                 <xsl:if test="@descuento='true'">
-                                    <span style="color: red;">Sí</span>
+                                    <span style="color: red;">¡Está de oferta!</span>
                                 </xsl:if>
                             </td>
                         </tr>
